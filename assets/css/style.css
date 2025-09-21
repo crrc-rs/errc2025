@@ -16,7 +16,7 @@ footer {
 /* Banner Hero */
 .hero-banner {
   height: 400px;
-  background-image: url('/assets/img/banner.jpg'); /* imagem do banner */
+  background-image: url('{{ "/assets/img/banner.jpg" | relative_url }}');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
