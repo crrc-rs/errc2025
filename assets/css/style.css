@@ -16,7 +16,7 @@ footer {
 /* Banner Hero */
 .hero-banner {
   height: 400px;
-  background-image: url('errc2025/assets/img/banner.jpg');
+  background-image: url('/errc2025/assets/img/banner.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
