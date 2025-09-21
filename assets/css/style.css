@@ -21,10 +21,13 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
+  z-index: 0; /* imagem atrás da sobreposição */
+
 }
 
 .hero-text {
-  z-index: 2;
+  position: relative;
+  z-index: 2; /* texto acima da sobreposição */
 }
 
 .hero-banner::before {
@@ -34,6 +37,6 @@ footer {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.4); /* sobreposição escura */
+  background-color: rgba(0,0,0,0.2); /* sobreposição escura */
   z-index: 1;
 }
