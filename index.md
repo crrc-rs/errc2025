@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Escola Regional de Redes de Computadores 2025
+title: ERRC 2025
 ---
 
 # Início
