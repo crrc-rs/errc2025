@@ -1,0 +1,11 @@
+h1, h2, h3 {
+  margin-top: 2rem;
+}
+
+.navbar-nav .nav-link {
+  margin-left: 1rem;
+}
+
+footer {
+  margin-top: 4rem;
+}
