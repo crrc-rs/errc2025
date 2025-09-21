@@ -1,32 +1,4 @@
-title: "ERRC 2025"
+title: "Evento 2025"
 description: "Site oficial do Evento 2025"
-theme: jekyll-theme-cayman
-
-# URL do site (ajuste se for usar domínio próprio)
-url: "https://crrc-rs.github.io"
-baseurl: "/errc2025"
-
-# Navegação principal
-nav:
-  - name: "Início"
-    link: "#início"
-  - name: "Programação"
-    link: "#programação"
-  - name: "Chamadas"
-    link: "#chamadas"
-  - name: "Inscrição"
-    link: "#inscrição"
-  - name: "Local do Evento"
-    link: "#local-do-evento"
-  - name: "WRSeg"
-    link: "#wrseg"
-  - name: "Organização"
-    link: "#organização"
-  - name: "Premiações"
-    link: "#premiações"
-
-# Configurações adicionais
+theme: null  # nenhum tema oficial, usaremos Bootstrap
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
