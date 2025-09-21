@@ -1,4 +1,8 @@
-title: "ERRC 2025"
+title: "ERRC 2025"         # título do site (usado na navbar e footer)
 description: "Site oficial da ERRC 2025"
-theme: null  # nenhum tema oficial, usaremos Bootstrap
+theme: null
 markdown: kramdown
+
+# Banner principal
+banner_title: "ERRC 2025"  # título que aparece no topo (hero)
+banner_subtitle: "Bem-vindo ao nosso evento!" # subtítulo do banner
