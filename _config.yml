@@ -6,3 +6,6 @@ markdown: kramdown
 # Banner principal
 banner_title: "ERRC 2025"  # título que aparece no topo (hero)
 banner_subtitle: "Bem-vindo ao nosso evento!" # subtítulo do banner
+
+baseurl: "/errc2025"  # importante
+
