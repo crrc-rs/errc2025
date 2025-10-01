@@ -22,6 +22,12 @@ navigation:
   - title: Premiações
     url: /premiacoes
 
+# Garantir que as páginas sejam processadas
+include:
+  - chamadas.md
+  - inscricao.md
+  - programacao.md
+
 # Configurações Jekyll
 markdown: kramdown
 theme: minima
