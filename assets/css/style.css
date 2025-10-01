@@ -1,0 +1,41 @@
+/* Ajuste geral de títulos */
+h1, h2, h3 {
+  margin-top: 2rem;
+}
+
+/* Navbar espaçamento */
+.navbar-nav .nav-link {
+  margin-left: 1rem;
+}
+
+/* Footer */
+footer {
+  margin-top: 4rem;
+}
+
+/* Banner Hero */
+.hero-banner {
+  height: 400px;
+  background-image: url('/errc2025/assets/img/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+
+.hero-text {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.3); /* sobreposição transparente */
+  z-index: 1;
+}

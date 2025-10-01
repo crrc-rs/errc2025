@@ -1,0 +1,30 @@
+title: ERRC 2025
+description: Escola Regional de Redes de Computadores
+baseurl: "/errc2025"
+url: "https://crrc-rs.github.io"
+
+# Navegação
+navigation:
+  - title: Início
+    url: /
+  - title: Programação
+    url: /programacao
+  - title: Chamadas
+    url: /chamadas
+  - title: Inscrição
+    url: /inscricao
+  - title: Local
+    url: /local
+  - title: WRSeg
+    url: /wrseg
+  - title: Organização
+    url: /organizacao
+  - title: Premiações
+    url: /premiacoes
+
+# Configurações Jekyll
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
