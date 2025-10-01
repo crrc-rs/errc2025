@@ -4,11 +4,13 @@ title: Início
 permalink: /
 ---
 
-# Bem-vindo ao ERRC 2025 🎉
-
-A **Escola Regional de Redes de Computadores** é um evento anual que reúne pesquisadores, estudantes e profissionais da área de redes de computadores.
+# 22ª Escola Regional de Redes de Computadores (ERRC)
+Centro Universitário Senac RS **(Unisenac)**
+24 a 26 de novembro - Porto Alegre - RS
 
 ## Sobre o Evento
+
+A **Escola Regional de Redes de Computadores** é um evento anual que reúne pesquisadores, estudantes e profissionais da área de redes de computadores.
 
 Aqui você encontra todas as informações sobre:
 - Programação completa
