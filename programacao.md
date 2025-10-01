@@ -23,3 +23,4 @@ permalink: /programacao/
 
 ### Tarde
 - **14h00 - 17h00:** Sessão técnica
+- teste
