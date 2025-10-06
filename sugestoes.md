@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sugestões aos Autores
+permalink: /sugestoes/
+---
+
 # Sugestões aos Autores
 
 A seguir são apresentadas sugestões endereçadas aos autores que desejam submeter seus artigos para publicação e apresentação na ERRC/WRSeg. Cada sugestão é acompanhada de referências que podem ajudar na sua concretização.
