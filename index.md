@@ -6,9 +6,9 @@ permalink: /
 
 # 22ª Escola Regional de Redes de Computadores (ERRC)
 
-Centro Universitário Senac RS **(Unisenac)**
+### Centro Universitário Senac RS **(Unisenac)**
 
-24 a 26 de novembro - Porto Alegre - RS
+### 24 a 26 de novembro de 2025 - Porto Alegre - RS
 
 ## Sobre o Evento
 
