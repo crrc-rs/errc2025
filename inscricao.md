@@ -13,7 +13,7 @@ A inscrição evento será realizada utilizando o sistema ECOS da SBC.
 
 ## INSCRIÇÃO PROMOCIONAL
 
-<img width="70%"  alt="image" src="https://github.com/user-attachments/assets/ae13bcad-21d6-4e86-923f-cc89fce192da" />
+<img width="100%"  alt="image" src="https://github.com/user-attachments/assets/ae13bcad-21d6-4e86-923f-cc89fce192da" />
 
 - Esse evento é realizado pela Sociedade Brasileira de Computação – SBC, a SBC é uma associação civil, sem fins lucrativos, que estimula o desenvolvimento tecnológico e científico do país e é a maior sociedade de computação da América do Sul.
   
