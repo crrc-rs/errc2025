@@ -19,11 +19,11 @@ Os artigos submetidos à escola devem conter de 4 (quatro) a 6 (seis) páginas e
 O template de estilo da SBC está disponível do Overleaf e em ZIP.
 
 ## 📅 Datas Importantes
-31/Outubro/2025: Data limite de registro e submissão de artigos (Estendido)
+26/10/2025: Data limite de registro e submissão de artigos
 
-10/Novembro/2025: Notificação de aceite dos artigos
+10/11/2025: Notificação de aceite dos artigos
 
-15/Novembro/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
+15/11/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
 
 ## 👩‍🏫 Comitê de Programa
 Cada trabalho será avaliado por três ou mais especialistas. A lista dos membros do comitê de programa está disponível aqui.
@@ -118,3 +118,5 @@ O template de estilo da SBC está disponível do [Overleaf](https://www.overleaf
 As submissões serão exclusivamente eletrônicas através do [sistema JEMS]( https://jems3.sbc.org.br/errc2025) da SBC.
 
 Todos os participantes e autores deverão realizar a inscrição na ERRC 2025 clicando [aqui](https://centraldesistemas.sbc.org.br/ecos/errc2025).
+
+Os anais das [edições passadas da ERRC](https://sol.sbc.org.br/index.php/errc/issue/archive) estão disponíveis na SBC Open Lib (SOL).
