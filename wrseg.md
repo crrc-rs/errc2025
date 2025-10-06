@@ -11,7 +11,7 @@ O Workshop Regional de Segurança da Informação e de Sistemas Computacionais (
 Autores são convidados a submeter artigos contendo resultados iniciais/finais das suas pesquisas ou propostas. Neste ano, além dos trabalhos tradicionalmente publicados, também encorajamos a submissão de trabalhos com teor predominante prático.
 
 ## 📅 Datas Importantes
-31/Outubro/2025: Data limite de registro e submissão de artigos (Estendido)
+24/Outubro/2025: Data limite de registro e submissão de artigos
 
 10/Novembro/2025: Notificação de aceite dos artigos
 
