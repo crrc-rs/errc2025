@@ -24,6 +24,6 @@ Aqui você encontra todas as informações sobre:
 
 ## Datas Importantes
 
-- **Submissão de trabalhos:** 24 de outubro de 2025
-- **Notificação de aceite:** 10 de novembro de 2025
-- **Evento:** 24 a 26 de novembro de 2025
+- **Submissão de trabalhos:** 26/outubro/2025
+- **Notificação de aceite:** 10/novembro/2025
+- **Evento:** 24 a 26 de novembro/2025
