@@ -34,6 +34,8 @@ include:
   - programacao.md
   - sugestoes.md
   - wrseg.md
+  - comiteassessor.md
+  - edicoesanteriores.md
 
 # Configurações Jekyll
 markdown: kramdown
