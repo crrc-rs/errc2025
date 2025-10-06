@@ -27,6 +27,13 @@ include:
   - chamadas.md
   - inscricao.md
   - programacao.md
+  - chamadaerrc.md
+  - inscricao.md
+  - local.md
+  - organizacao.md
+  - programacao.md
+  - sugestoes.md
+  - wrseg.md
 
 # Configurações Jekyll
 markdown: kramdown
