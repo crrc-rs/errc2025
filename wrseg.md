@@ -74,5 +74,14 @@ Serão aceitos trabalhos: artigos com no mínimo 4 (quatro) e máximo de 6(seis)
 
 As submissões serão exclusivamente online através do JEMS.
 
+## ✏️ Instruções aos Autores
+Todos os artigos devem ser elaborados no formato SBC, com tamanho mínimo de 4 páginas e máximo de 6 páginas em língua portuguesa ou inglesa. A formatação do texto deve seguir o estilo da SBC. Caso o artigo seja escrito em português, será necessário um Abstract em inglês junto com o Resumo em português; caso o artigo seja escrito em inglês, não é necessário Resumo em português, mas é necessário o Abstract em inglês.
+
+O template de estilo da SBC está disponível do [Overleaf](https://www.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr) e em [ZIP](https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros).
+
+As submissões serão exclusivamente eletrônicas através do [sistema JEMS]( https://jems3.sbc.org.br/errc2025) da SBC.
+
+Todos os participantes e autores do WRSeg deverão realizar a inscrição na ERRC 2025 clicando aqui.
+
 ## 👩‍🏫 Comitê de Programa
 
