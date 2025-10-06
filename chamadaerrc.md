@@ -28,7 +28,8 @@ O template de estilo da SBC está disponível do Overleaf e em ZIP.
 ## 👩‍🏫 Comitê de Programa
 Cada trabalho será avaliado por três ou mais especialistas. A lista dos membros do comitê de programa está disponível aqui.
 
-📚 Tópicos de Interesse (lista não exaustiva)
+## 📚 Tópicos de Interesse (lista não exaustiva)
+
 Arquitetura de redes
 
 Blockchain
