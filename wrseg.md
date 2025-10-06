@@ -81,7 +81,7 @@ O template de estilo da SBC está disponível do [Overleaf](https://www.overleaf
 
 As submissões serão exclusivamente eletrônicas através do [sistema JEMS]( https://jems3.sbc.org.br/errc2025) da SBC.
 
-Todos os participantes e autores do WRSeg deverão realizar a inscrição na ERRC 2025 clicando aqui.
+Todos os participantes e autores do WRSeg deverão realizar a inscrição na ERRC 2025 clicando [aqui](https://centraldesistemas.sbc.org.br/ecos/errc2025).
 
 ## 👩‍🏫 Comitê de Programa
 
