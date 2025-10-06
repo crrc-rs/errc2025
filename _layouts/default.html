@@ -81,7 +81,53 @@
   <main class="container my-5">
     {{ content }}
   </main>
-
+  <!-- Footer -->
+  <!-- Rodapé Informativo -->
+  <footer class="bg-light border-top">
+    <div class="container py-5">
+      <div class="row text-center text-md-start">
+        
+        <!-- Realização -->
+        <div class="col-md-4 mb-4 mb-md-0">
+          <h5 class="fw-bold mb-3 text-primary">Realização</h5>
+          <div class="d-flex justify-content-center justify-content-md-start">
+            <img src="{{ '/assets/img/logo-realizacao.png' | relative_url }}" 
+                 alt="Logo Realização" 
+                 class="img-fluid" 
+                 style="max-height: 120px;">
+          </div>
+        </div>
+        
+        <!-- Organização -->
+        <div class="col-md-4 mb-4 mb-md-0">
+          <h5 class="fw-bold mb-3 text-primary">Organização</h5>
+          <div class="d-flex justify-content-center justify-content-md-start">
+            <img src="{{ '/assets/img/logo-organizacao.png' | relative_url }}" 
+                 alt="Logo Organização" 
+                 class="img-fluid" 
+                 style="max-height: 120px;">
+          </div>
+        </div>
+        
+        <!-- Contatos -->
+        <div class="col-md-4">
+          <h5 class="fw-bold mb-3 text-primary">Contatos</h5>
+          <div class="d-flex flex-column align-items-center align-items-md-start gap-2">
+            <p class="mb-1">
+              <strong>E-mails:</strong>
+            </p>
+            <a href="mailto: mjbarth@senacrs.com.br" class="text-decoration-none text-dark">
+              📧 Márcio Joel Barth
+            </a>
+            <a href="mailto:mpohlmann@senacrs.com.br" class="text-decoration-none text-dark">
+              📧 Marcio Pohlmann
+            </a>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </footer>
   <!-- Footer -->
   <footer class="bg-light text-center py-3">
     <small>&copy; Escola Regional de Redes de Computadores - {{ site.title }}</small>
