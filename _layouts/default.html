@@ -48,9 +48,18 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ '/wrseg/' | relative_url }}">WRSeg</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ '/organizacao/' | relative_url }}">Organização</a>
-        </li>
+<!-- Dropdown de Organização -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="organizacaoDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Chamadas
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="organizacaoDropdown">
+            <li><a class="dropdown-item" href="{{ '/organizacao/' | relative_url }}">Edição 2025</a></li>
+            <li><a class="dropdown-item" href="{{ '/edicoesanteriores/' | relative_url }}">Edições Anteriores</a></li>
+            <li><a class="dropdown-item" href="{{ '/comiteassessor/' | relative_url }}">Comitê Assessor</a></li>
+          </ul>
+        </li>      
+        
   <!-- Descomentar depois da premiação -->
        <!--  <li class="nav-item">
           <a class="nav-link" href="{{ '/premiacoes/' | relative_url }}">Premiações</a>
