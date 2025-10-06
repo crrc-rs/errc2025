@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chamada ERRC 2025
+permalink: /chamadaerrc/
+---
+
 ## 📃 Chamada para Trabalhos
 Autores são convidados a submeter artigos contendo resultados de suas pesquisas ou suas propostas fundamentadas. Neste ano, além dos trabalhos tradicionalmente publicados (por exemplo resultados de pesquisas), também encorajamos a submissão de trabalhos com teor predominante prático (por exemplo, utilização de tecnologias ou implantação de novas ferramentas). Artigos com propostas de pesquisa em andamento também são bem-vindos. Neste sentido, a edição de 2025 contemplará duas trilha de trabalhos:
 
