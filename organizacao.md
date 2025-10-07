@@ -31,3 +31,92 @@ permalink: /organizacao/
 
 [Prof. Dr. Rui Gureghian Scarinci (Unisenac)](http://lattes.cnpq.br/7806407765687364)
 
+## Comitê Técnico de Programa 
+
+Alberto Egon Schaeffer-Filho — Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Alex M. de Oliveira — Instituto Federal do Rio Grande do Sul (IFRS)
+
+Antonio M. O. Candia — Universidade Federal de Santa Maria (UFSM)
+
+Bruno L. Dalmazo — Universidade Federal do Rio Grande (FURG)
+
+Cesar Augusto Hass Loureiro — Instituto Federal do Rio Grande do Sul (IFRS)
+
+Claudio Schepke — Universidade Federal do Pampa (UNIPAMPA)
+
+Cristiano Bonato Both — Universidade do Vale do Rio dos Sinos (UNISINOS)
+
+Cristina Nunes — Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+
+Dalvan Griebler — Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+
+Daniel Stefani Marcon — Universidade do Vale do Rio dos Sinos (UNISINOS)
+
+Diogo Menezes Ferrazani Mattos — Universidade Federal Fluminense (UFF)
+
+Edison Pignaton de Freitas — Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Eduardo Maroñas Monks — Faculdade de Tecnologia SENAC Pelotas (FATEC-SENAC)
+
+Erico M. H. do Amaral — Universidade Federal do Pampa (UNIPAMPA)
+
+Ewerton Monteiro Salvador — Universidade Federal da Paraíba (UFPB)
+
+Fábio Diniz Rossi — Instituto Federal Farroupilha (IFFAR)
+
+Guilherme Piêgas Koslovski — Universidade do Estado de Santa Catarina (UDESC)
+
+Jeferson Campos Nobre — Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Juliano Araujo Wickboldt — Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Juliano Kazienko — Universidade Federal de Santa Maria (UFSM)
+
+Leandro Márcio Bertholdo — Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Leonardo Pinho — Universidade Federal do Pampa (UNIPAMPA)
+
+Lisandro Zambenedetti Granville — Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Lucas Bondan — Rede Nacional de Ensino e Pesquisa (RNP)
+
+Luciano Paschoal Gaspary — Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Lucio Rene Prade — Universidade do Vale do Rio dos Sinos (UNISINOS)
+
+Luis Augusto Dias Knob — Fondazione Bruno Kessler (FBK)
+
+Marcia Pasin — Universidade Federal de Santa Maria (UFSM)
+
+Marco A. Spohn — Universidade Federal da Fronteira Sul (UFFS)
+
+Muriel Figueredo Franco — Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)
+
+Pedro de B. Marcos — Universidade Federal do Rio Grande (FURG)
+
+Rafael Bastos — Universidade Federal de Pelotas (UFPel)
+
+Raul Ceretta Nunes — Universidade Federal de Santa Maria (UFSM)
+
+Ricardo Borges Almeida — Universidade Federal de Pelotas (UFPel)
+
+Ricardo de la Rocha Ladeira — Instituto Federal Catarinense (IFC)
+
+Ricardo Jose Pfitscher — Universidade Federal de Santa Catarina (UFSC)
+
+Roben Castagna Lunardi — Instituto Federal do Rio Grande do Sul (IFRS)
+
+Rodolfo Antunes — Universidade do Vale do Rio dos Sinos (UNISINOS)
+
+Rodrigo Brandão Mansilha — Universidade Federal do Pampa (UNIPAMPA)
+
+Rodrigo Campos Bortoletto — Instituto Federal de São Paulo (IFSP)
+
+Rodrigo Neves Calheiros — Western Sydney University (WSU)
+
+Rogério Turchetti — Universidade Federal de Santa Maria (UFSM)
+
+Simone Ceolin — Universidade Federal de Santa Maria (UFSM)
+
+Tiago Coelho Ferreto — Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
