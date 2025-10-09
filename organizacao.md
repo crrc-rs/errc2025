@@ -43,6 +43,8 @@ Bruno L. Dalmazo — Universidade Federal do Rio Grande (FURG)
 
 Cesar Augusto Hass Loureiro — Instituto Federal do Rio Grande do Sul (IFRS)
 
+Charles Christian Miers — Universidade do Estado de Santa Catarina (UDESC)
+
 Claudio Schepke — Universidade Federal do Pampa (UNIPAMPA)
 
 Cristiano Bonato Both — Universidade do Vale do Rio dos Sinos (UNISINOS)
@@ -89,6 +91,10 @@ Luis Augusto Dias Knob — Fondazione Bruno Kessler (FBK)
 
 Marcia Pasin — Universidade Federal de Santa Maria (UFSM)
 
+Marcio Pohlmann — Faculdade Senac Porto Alegre / Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Márcio Joel Barth — PROCERGS (Companhia de Processamento de Dados do Estado do RS)
+
 Marco A. Spohn — Universidade Federal da Fronteira Sul (UFFS)
 
 Muriel Figueredo Franco — Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)
@@ -115,8 +121,12 @@ Rodrigo Campos Bortoletto — Instituto Federal de São Paulo (IFSP)
 
 Rodrigo Neves Calheiros — Western Sydney University (WSU)
 
+Roger Immich — Universidade Federal do Rio Grande do Norte (UFRN)
+
 Rogério Turchetti — Universidade Federal de Santa Maria (UFSM)
 
 Simone Ceolin — Universidade Federal de Santa Maria (UFSM)
 
 Tiago Coelho Ferreto — Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+
+Tiago Antonio Rizzetti — Universidade Federal de Santa Maria (UFSM)
