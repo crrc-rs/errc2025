@@ -19,11 +19,13 @@ Os artigos submetidos à escola devem conter de 4 (quatro) a 6 (seis) páginas e
 O template de estilo da SBC está disponível do Overleaf e em ZIP.
 
 ## 📅 Datas Importantes
-26/10/2025: Data limite de registro e submissão de artigos
+10/11/2025: Data limite de registro e submissão de artigos
 
-10/11/2025: Notificação de aceite dos artigos
+24/11/2025: Notificação de aceite dos artigos
 
-15/11/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
+01/12/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
+
+08/12/2025: ERRC 2025
 
 ## 👩‍🏫 Comitê de Programa
 Cada trabalho será avaliado por três ou mais especialistas. A lista dos membros do comitê de programa está [disponível aqui](https://crrc-rs.github.io/errc2025/organizacao/).

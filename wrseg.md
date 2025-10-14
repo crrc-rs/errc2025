@@ -11,12 +11,13 @@ O Workshop Regional de Segurança da Informação e de Sistemas Computacionais (
 Autores são convidados a submeter artigos contendo resultados iniciais/finais das suas pesquisas ou propostas. Neste ano, além dos trabalhos tradicionalmente publicados, também encorajamos a submissão de trabalhos com teor predominante prático.
 
 ## 📅 Datas Importantes
-26/Outubro/2025: Data limite de registro e submissão de artigos
+10/11/2025: Data limite de registro e submissão de artigos
 
-10/Novembro/2025: Notificação de aceite dos artigos
+24/11/2025: Notificação de aceite dos artigos
 
-15/Novembro/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
+01/12/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
 
+08/12/2025: ERRC e WRSeg 2025
 
 ## 📚Tópicos de interesse (lista não exaustiva)
 Anonimato e privacidade computacional
