@@ -26,5 +26,5 @@ Aqui você encontra todas as informações sobre:
 
 - **Submissão de trabalhos:** 10/11/2025
 - **Notificação de aceite:** 24/11/2025
-- **Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025:** 24/11/2025
+- **Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025:** 01/12/2025
 - **Evento:** 8 a 10 de dezembro/2025
