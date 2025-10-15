@@ -8,7 +8,7 @@ permalink: /
 
 ### Centro Universitário Senac RS **(Unisenac)**
 
-### 24 a 26 de novembro de 2025 - Porto Alegre - RS
+### 8 a 10 de dezembro de 2025 - Porto Alegre - RS
 
 ## Sobre o Evento
 
@@ -24,6 +24,7 @@ Aqui você encontra todas as informações sobre:
 
 ## Datas Importantes
 
-- **Submissão de trabalhos:** 26/outubro/2025
-- **Notificação de aceite:** 10/novembro/2025
-- **Evento:** 24 a 26 de novembro/2025
+- **Submissão de trabalhos:** 10/11/2025
+- **Notificação de aceite:** 24/11/2025
+- **Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025:** 24/11/2025
+- **Evento:** 8 a 10 de dezembro/2025

@@ -25,7 +25,7 @@ O template de estilo da SBC está disponível do Overleaf e em ZIP.
 
 01/12/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
 
-08/12/2025: ERRC 2025
+08/12/2025: ERRC 2025 (até dia 10/12/2025)
 
 ## 👩‍🏫 Comitê de Programa
 Cada trabalho será avaliado por três ou mais especialistas. A lista dos membros do comitê de programa está [disponível aqui](https://crrc-rs.github.io/errc2025/organizacao/).
