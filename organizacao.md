@@ -7,7 +7,7 @@ permalink: /organizacao/
 # Comitê Organizador
 
 ## Coordenação Geral
-[Prof. Me. Márcio Joel Barth](http://lattes.cnpq.br/8544832945879725)
+[Prof. Me. Márcio Joel Barth (Unisenac)](http://lattes.cnpq.br/8544832945879725)
 
 ## Organização do Comitê Técnico de Programa da ERRC
 [Prof. Dr. Eder John Scheid (UFRGS)](http://lattes.cnpq.br/0929533612240305)
