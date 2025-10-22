@@ -33,100 +33,108 @@ permalink: /organizacao/
 
 ## Comitê Técnico de Programa 
 
-Alberto Egon Schaeffer-Filho — Universidade Federal do Rio Grande do Sul (UFRGS)
+O ChatGPT disse:
 
-Alex M. de Oliveira — Instituto Federal do Rio Grande do Sul (IFRS)
+Alberto Egon Schaeffer-Filho – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Antonio M. O. Candia — Universidade Federal de Santa Maria (UFSM)
+Alex M. de Oliveira – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
 
-Bruno L. Dalmazo — Universidade Federal do Rio Grande (FURG)
+Antonio M. O. Candia – Universidade Federal de Santa Maria (UFSM)
 
-Cesar Augusto Hass Loureiro — Instituto Federal do Rio Grande do Sul (IFRS)
+Bruno L. Dalmazo – Universidade Federal do Rio Grande (FURG)
 
-Charles Christian Miers — Universidade do Estado de Santa Catarina (UDESC)
+Cesar Augusto Hass Loureiro – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
 
-Claudio Schepke — Universidade Federal do Pampa (UNIPAMPA)
+Charles Christian Miers – Universidade do Estado de Santa Catarina (UDESC)
 
-Cristiano Bonato Both — Universidade do Vale do Rio dos Sinos (UNISINOS)
+Claudio Schepke – Universidade Federal do Pampa (UNIPAMPA)
 
-Cristina Nunes — Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+Cristiano Bonato Both – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Dalvan Griebler — Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+Cristina Nunes – Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 
-Daniel Stefani Marcon — Universidade do Vale do Rio dos Sinos (UNISINOS)
+Dalvan Griebler – Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 
-Diogo Menezes Ferrazani Mattos — Universidade Federal Fluminense (UFF)
+Daniel Stefani Marcon – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Edison Pignaton de Freitas — Universidade Federal do Rio Grande do Sul (UFRGS)
+Diogo Menezes Ferrazani Mattos – Universidade Federal Fluminense (UFF)
 
-Eduardo Maroñas Monks — Faculdade de Tecnologia SENAC Pelotas (FATEC-SENAC)
+Eder John Scheid – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Erico M. H. do Amaral — Universidade Federal do Pampa (UNIPAMPA)
+Edison Pignaton de Freitas – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Ewerton Monteiro Salvador — Universidade Federal da Paraíba (UFPB)
+Eduardo Maroñas Monks – Faculdade de Tecnologia Senac Pelotas (FATEC SENAC Pelotas)
 
-Fábio Diniz Rossi — Instituto Federal Farroupilha (IFFAR)
+Erico M. H. do Amaral – Universidade Federal do Pampa (UNIPAMPA)
 
-Guilherme Piêgas Koslovski — Universidade do Estado de Santa Catarina (UDESC)
+Ewerton Monteiro Salvador – Universidade Federal da Paraíba (UFPB)
 
-Jeferson Campos Nobre — Universidade Federal do Rio Grande do Sul (UFRGS)
+Fábio Diniz Rossi – Instituto Federal Farroupilha (IFFar)
 
-Juliano Araujo Wickboldt — Universidade Federal do Rio Grande do Sul (UFRGS)
+Guilherme Piêgas Koslovski – Universidade do Estado de Santa Catarina (UDESC)
 
-Juliano Kazienko — Universidade Federal de Santa Maria (UFSM)
+Jeferson Campos Nobre – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Leandro Márcio Bertholdo — Universidade Federal do Rio Grande do Sul (UFRGS)
+Juliano Araujo Wickboldt – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Leonardo Pinho — Universidade Federal do Pampa (UNIPAMPA)
+Juliano Kazienko – Universidade Federal de Santa Maria (UFSM)
 
-Lisandro Zambenedetti Granville — Universidade Federal do Rio Grande do Sul (UFRGS)
+Leandro Márcio Bertholdo – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Lucas Bondan — Rede Nacional de Ensino e Pesquisa (RNP)
+Leonardo Pinho – Universidade Federal do Pampa (UNIPAMPA)
 
-Luciano Paschoal Gaspary — Universidade Federal do Rio Grande do Sul (UFRGS)
+Lisandro Zambenedetti Granville – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Lucio Rene Prade — Universidade do Vale do Rio dos Sinos (UNISINOS)
+Lucas Bondan – Rede Nacional de Ensino e Pesquisa (RNP)
 
-Luis Augusto Dias Knob — Fondazione Bruno Kessler (FBK)
+Luciano Paschoal Gaspary – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Marcia Pasin — Universidade Federal de Santa Maria (UFSM)
+Lucio Rene Prade – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Marcio Pohlmann — Faculdade Senac Porto Alegre / Universidade Federal do Rio Grande do Sul (UFRGS)
+Luis Augusto Dias Knob – Fondazione Bruno Kessler (FBK)
 
-Márcio Joel Barth — PROCERGS (Companhia de Processamento de Dados do Estado do RS)
+Marcia Pasin – Universidade Federal de Santa Maria (UFSM)
 
-Marco A. Spohn — Universidade Federal da Fronteira Sul (UFFS)
+Marcio Pohlmann – Faculdade Senac Porto Alegre / Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Muriel Figueredo Franco — Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)
+Márcio Joel Barth – Companhia de Processamento de Dados do Estado do Rio Grande do Sul (PROCERGS)
 
-Pedro de B. Marcos — Universidade Federal do Rio Grande (FURG)
+Marco A. Spohn – Universidade Federal da Fronteira Sul (UFFS)
 
-Rafael Bastos — Universidade Federal de Pelotas (UFPel)
+Muriel Figueredo Franco – Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)
 
-Raul Ceretta Nunes — Universidade Federal de Santa Maria (UFSM)
+Pedro de B. Marcos – Universidade Federal do Rio Grande (FURG)
 
-Ricardo Borges Almeida — Universidade Federal de Pelotas (UFPel)
+Rafael Bastos – Universidade Federal de Pelotas (UFPel)
 
-Ricardo de la Rocha Ladeira — Instituto Federal Catarinense (IFC)
+Rafael Esteves – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
 
-Ricardo Jose Pfitscher — Universidade Federal de Santa Catarina (UFSC)
+Rafael Kunst – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Roben Castagna Lunardi — Instituto Federal do Rio Grande do Sul (IFRS)
+Raul Ceretta Nunes – Universidade Federal de Santa Maria (UFSM)
 
-Rodolfo Antunes — Universidade do Vale do Rio dos Sinos (UNISINOS)
+Ricardo Borges Almeida – Universidade Federal de Pelotas (UFPel)
 
-Rodrigo Brandão Mansilha — Universidade Federal do Pampa (UNIPAMPA)
+Ricardo de la Rocha Ladeira – Instituto Federal Catarinense – Campus Blumenau (IFC)
 
-Rodrigo Campos Bortoletto — Instituto Federal de São Paulo (IFSP)
+Ricardo Jose Pfitscher – Universidade Federal de Santa Catarina (UFSC)
 
-Rodrigo Neves Calheiros — Western Sydney University (WSU)
+Roben Castagna Lunardi – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
 
-Roger Immich — Universidade Federal do Rio Grande do Norte (UFRN)
+Rodolfo Antunes – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Rogério Turchetti — Universidade Federal de Santa Maria (UFSM)
+Rodrigo Brandão Mansilha – Universidade Federal do Pampa (UNIPAMPA)
 
-Simone Ceolin — Universidade Federal de Santa Maria (UFSM)
+Rodrigo Campos Bortoletto – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
 
-Tiago Coelho Ferreto — Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+Rodrigo Neves Calheiros – Western Sydney University (WSU)
 
-Tiago Antonio Rizzetti — Universidade Federal de Santa Maria (UFSM)
+Roger Immich – Universidade Federal do Rio Grande do Norte (UFRN)
+
+Rogério Turchetti – Universidade Federal de Santa Maria (UFSM)
+
+Simone Ceolin – Universidade Federal de Santa Maria (UFSM)
+
+Tiago Coelho Ferreto – Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+
+Tiago Antonio Rizzetti – Universidade Federal de Santa Maria (UFSM)
