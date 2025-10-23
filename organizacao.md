@@ -33,8 +33,6 @@ permalink: /organizacao/
 
 ## Comitê Técnico de Programa 
 
-O ChatGPT disse:
-
 Alberto Egon Schaeffer-Filho – Universidade Federal do Rio Grande do Sul (UFRGS)
 
 Alex M. de Oliveira – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
