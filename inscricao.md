@@ -56,5 +56,5 @@ Informamos aos autores que, para garantir a publicação de trabalhos aceitos no
 Cada artigo terá um slot de 15 minutos para apresentação, seguido de 5 minutos para perguntas. A apresentação dos artigos acontecerá em sala agendada. A não apresentação do artigo implica no trabalho ser excluído dos anais do evento e do Portal de Conteúdos da SBC.
 
 ## Política de Cancelamento
-Até dia 21/11/2023 pode-se fazer uma devolução de 50% do valor pago pela inscrição na ERRC 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.
+Até dia 02/12/2023 pode-se fazer uma devolução de 50% do valor pago pela inscrição na ERRC 2023. Após esta data não haverá devolução de qualquer valor pago. A política se aplica tanto para o cancelamento da inscrição, quanto para o cancelamento de qualquer atividade adicional. Para solicitar o cancelamento, enviar a solicitação para faturamento@sbc.org.br.
 
