@@ -17,16 +17,16 @@ A inscrição evento será realizada utilizando o sistema ECOS da SBC.
 
 - Esse evento é realizado pela Sociedade Brasileira de Computação – SBC, a SBC é uma associação civil, sem fins lucrativos, que estimula o desenvolvimento tecnológico e científico do país e é a maior sociedade de computação da América do Sul.
   
-- Os pagamentos por boleto e débito encerram-se dia XX/11/2025, os pagamentos por cartão de crédito, nota de empenho e faturamento ficarão abertos até o último dia do evento.
+- Os pagamentos por boleto e débito encerram-se dia 02/12/2025, os pagamentos por cartão de crédito, PIX, nota de empenho e faturamento ficarão abertos até o último dia do evento.
   
 - Os associados da SBC devem estar em dia com a anuidade de 2025 para terem direito aos valores reduzidos.
 A taxa de inscrição cobre a participação nas sessões da ERRC/WRSeg, palestras, minicursos e emissão de certificado de participação (em formato digital).
 
-- O autor do artigo que realizará a apresentação deve estar com sua inscrição registrada e paga em qualquer categoria até XX/11/2025. Sendo que no mínimo um autor por artigo deve estar devidamente inscrito no evento.
+- O autor do artigo que realizará a apresentação deve estar com sua inscrição registrada e paga em qualquer categoria até 02/12/2025. Sendo que no mínimo um autor por artigo deve estar devidamente inscrito no evento.
   
 - Será exigido no momento da inscrição no sistema ECOS, para as categorias que necessitam de algum tipo comprovação, o upload que ateste a categoria escolhida. A verificação desse documento pode levar até 2 dias úteis. Logo, sugerimos que para evitar algum transtorno não deixe para o último dia da faixa de inscrição. Somente após a validação pela equipe da SBC, as formas de pagamento serão liberadas. O inscrito receberá e-mails informativos em todas as etapas da evolução da inscrição dele na ERRC 2025.
   
-- Os valores de inscrição para a ERRC 2025 estão listados na sequência. Destacamos que estudantes e profissionais não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os benefícios de se associar à SBC.
+- Os valores de inscrição para a ERRC 2025 estão listados na sequência. Destacamos que estudantes e profissionais não são associados à SBC podem se associar (ou renovar a associação) no processo de inscrição. Inscrever-se com associação à SBC é a opção mais vantajosa para os não associados à SBC, confira os [benefícios](https://www.sbc.org.br/associe-se/#beneficios) de se associar à SBC.
   
 - Inscrições por Nota de Empenho e Faturamento: O participante deverá acessar o sistema ECOS e realizar a inscrição, selecionando a forma de pagamento “nota de empenho” ou “faturamento” e clicar em pagar, o sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
  
