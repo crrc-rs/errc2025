@@ -4,6 +4,14 @@ title: Início
 permalink: /
 ---
 
+<div class="text-center my-5">
+  <img src="{{ '/assets/img/569437_SE6-0806_25A_UNISENAC_LOGO_ERRC.png' | relative_url }}" 
+       alt="Logo ERRC 2025" 
+       class="img-fluid"
+       style="max-width: 600px; width: 100%;">
+</div>
+
+
 # 22ª Escola Regional de Redes de Computadores (ERRC)
 
 ### Centro Universitário Senac RS **(Unisenac)**
