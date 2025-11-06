@@ -8,7 +8,7 @@ permalink: /
   <img src="{{ '/assets/img/569437_SE6-0806_25A_UNISENAC_LOGO_ERRC.png' | relative_url }}" 
        alt="Logo ERRC 2025" 
        class="img-fluid"
-       style="max-width: 600px; width: 100%;">
+       style="max-width: 500px; width: 100%;">
 </div>
 
 
