@@ -12,6 +12,23 @@ A inscrição evento será realizada utilizando o sistema ECOS da SBC.
 
 # Valores / Investimento
 
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table, th, td {
+  border: 1px solid #ddd;
+}
+th, td {
+  padding: 12px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+</style>
+
 | **CATEGORIAS** | **Até 14/11/2025** | **Até 10/11/2025** |
 |------------|----------------|----------------|
 | **Estudantes** | | |
