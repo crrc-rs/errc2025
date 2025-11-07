@@ -4,9 +4,6 @@ title: Chamada ERRC 2025
 permalink: /chamadaerrc/
 ---
 
-# 22ª Escola Regional de Redes de Computadores (ERRC)
-A **Escola Regional de Redes de Computadores** é um evento anual que reúne pesquisadores, estudantes e profissionais da área de redes de computadores.
-
 ## 📃 Chamada para Trabalhos
 Autores são convidados a submeter artigos contendo resultados de suas pesquisas ou suas propostas fundamentadas. Neste ano, além dos trabalhos tradicionalmente publicados (por exemplo resultados de pesquisas), também encorajamos a submissão de trabalhos com teor predominante prático (por exemplo, utilização de tecnologias ou implantação de novas ferramentas). Artigos com propostas de pesquisa em andamento também são bem-vindos. Neste sentido, a edição de 2025 contemplará duas trilha de trabalhos:
 
