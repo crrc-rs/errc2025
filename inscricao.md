@@ -47,10 +47,10 @@ th {
 | Professor de Educação Básica não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 180,00 | R$ 190,00 |
 | Professor de Educação Básica não associado à SBC (**Somente** inscrição no evento) | R$ 185,00 | R$ 196,00 |
 | **Professor de Educação Básica Federal** | | |
-| Professor de Educação Básica associado à SBC com anuidade vigente | R$ 45,00 | R$ 55,00 |
-| Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 415,00 | R$ 425,00 |
-| Professor de Educação Básica não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 415,00 | R$ 425,00 |
-| Professor de Educação Básica não associado à SBC (**Somente** inscrição no evento) | R$ 420,00 | R$ 431,00 |
+| Professor de Educação Básica associado à SBC com anuidade vigente | R$ 50,00 | R$ 65,00 |
+| Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 420,00 | R$ 435,00 |
+| Professor de Educação Básica não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 420,00 | R$ 435,00 |
+| Professor de Educação Básica não associado à SBC (**Somente** inscrição no evento) | R$ 425,00 | R$ 442,00 |
 | **Profissionais/Efetivos** | | |
 | Profissional associado à SBC com anuidade vigente | R$ 100,00 | R$ 120,00 |
 | Profissional associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 475,00 | R$ 495,00 |
