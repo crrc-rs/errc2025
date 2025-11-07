@@ -8,8 +8,51 @@ permalink: /inscricao/
 
 A inscrição evento será realizada utilizando o sistema ECOS da SBC.
 
-[Ir para Inscrição](https://centraldesistemas.sbc.org.br/ecos/errc2025)
+<a href="[URL](https://centraldesistemas.sbc.org.br/ecos/errc2025)" style="background-color: #4CAF50; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">INSCREVA-SE AQUI</a>
 
+# Valores / Investimento
+
+| **CATEGORIAS** | **Até 14/11/2025** | **Até 10/11/2025** |
+|------------|----------------|----------------|
+| **Estudantes** | | |
+| Estudante associado à SBC com anuidade vigente | R$ 30,00 | R$ 40,00 |
+| Estudante associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 63,00 | R$ 73,00 |
+| Estudante não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 63,00 | R$ 73,00 |
+| Estudante não associado à SBC (**Somente** inscrição no evento) | R$ 66,00 | R$ 77,00 |
+| **Estudantes Pós Graduação** | | |
+| Estudante de pós-graduação associado à SBC com anuidade vigente | R$ 40,00 | R$ 50,00 |
+| Estudante de pós-graduação associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 175,00 | R$ 185,00 |
+| Estudante de pós-graduação não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 175,00 | R$ 185,00 |
+| Estudante de pós-graduação não associado à SBC (**Somente** inscrição no evento) | R$ 179,00 | R$ 190,00 |
+| **Professor de Educação Básica Municipal/Estadual** | | |
+| Professor de Educação Básica associado à SBC com anuidade vigente | R$ 45,00 | R$ 55,00 |
+| Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 180,00 | R$ 190,00 |
+| Professor de Educação Básica não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 180,00 | R$ 190,00 |
+| Professor de Educação Básica não associado à SBC (**Somente** inscrição no evento) | R$ 185,00 | R$ 196,00 |
+| **Professor de Educação Básica Federal** | | |
+| Professor de Educação Básica associado à SBC com anuidade vigente | R$ 45,00 | R$ 55,00 |
+| Professor de Educação Básica associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 415,00 | R$ 425,00 |
+| Professor de Educação Básica não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 415,00 | R$ 425,00 |
+| Professor de Educação Básica não associado à SBC (**Somente** inscrição no evento) | R$ 420,00 | R$ 431,00 |
+| **Profissionais/Efetivos** | | |
+| Profissional associado à SBC com anuidade vigente | R$ 100,00 | R$ 120,00 |
+| Profissional associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 475,00 | R$ 495,00 |
+| Profissional não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 475,00 | R$ 495,00 |
+| Profissional não associado à SBC (**Somente** inscrição no evento) | R$ 485,00 | R$ 507,00 |
+
+- Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.
+
+- As categorias COMBO são a opção mais vantajosa para os não associados à SBC, pois os valores de inscrições são menores do que as categorias sem combo e incluem a associação à SBC.
+
+- Associar-se à SBC é uma forma de tornar a SBC ainda mais forte para representar a nossa área de atuação junto aos diversos setores. Que tal fazer parte da nossa Comunidade?
+
+- Alguns benefícios exclusivos de associado:
+
+- Acesso à rede sem fio Eduroam;
+- Desconto em inscrições nos mais de 40 eventos realizados anualmente pela SBC;
+- Valor de inscrição diferenciado no POSCOMP;
+- Acesso aos estudos realizados pela SBC e destinados a órgãos públicos ou privados, expressando posições políticas da Sociedade.
+- Confira os benefícios específicos de cada categoria no site da SBC: [https://www.sbc.org.br](https://www.sbc.org.br)
 
 ## INSCRIÇÃO PROMOCIONAL
 
@@ -31,24 +74,6 @@ A taxa de inscrição cobre a participação nas sessões da ERRC/WRSeg, palestr
 - Inscrições por Nota de Empenho e Faturamento: O participante deverá acessar o sistema ECOS e realizar a inscrição, selecionando a forma de pagamento “nota de empenho” ou “faturamento” e clicar em pagar, o sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
  
 - Inscrições que optarem por pagamento através de boleto podem levar até 3 dias úteis pra serem atualizadas no sistema.
-
-## TABELA DE VALORES
-
-- Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.
-
-- As categorias COMBO são a opção mais vantajosa para os não associados à SBC, pois os valores de inscrições são menores do que as categorias sem combo e incluem a associação à SBC.
-
-- Associar-se à SBC é uma forma de tornar a SBC ainda mais forte para representar a nossa área de atuação junto aos diversos setores. Que tal fazer parte da nossa Comunidade?
-
-Acesse o [site da SBC](https://www.sbc.org.br) e veja por que ser associado.
-
-- Alguns benefícios exclusivos de associado:
-
-- Acesso à rede sem fio Eduroam;
-- Desconto em inscrições nos mais de 40 eventos realizados anualmente pela SBC;
-- Valor de inscrição diferenciado no POSCOMP;
-- Acesso aos estudos realizados pela SBC e destinados a órgãos públicos ou privados, expressando posições políticas da Sociedade.
-- Confira os benefícios específicos de cada categoria no site da SBC: [https://www.sbc.org.br](https://www.sbc.org.br)
 
 ## Política para Autores
 Informamos aos autores que, para garantir a publicação de trabalhos aceitos nos anais da ERRC 2025, pelo menos um dos autores deve estar com inscrição confirmada e paga em qualquer categoria. Além disso, é necessária a assinatura e o envio do Formulário de Cessão de Direitos Autorais da Sociedade Brasileira de Computação (SBC) (a ser enviado aos autores de artigos aceitos).
