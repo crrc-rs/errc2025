@@ -86,3 +86,76 @@ Todos os participantes e autores do WRSeg deverão realizar a inscrição na ERR
 
 ## 👩‍🏫 Comitê de Programa
 
+Alex M. de Oliveira - Instituto Federal De Educação, Ciência E Tecnologia Do Rio Grande Do Sul (IFRS)
+
+Bruno Augusti Mozzaquatro - Universidade Federal De Santa Maria (UFSM)
+
+Bruno L. Dalmazo - Universidade Federal do Rio Grande (FURG)
+
+Cesar Augusto Hass Loureiro - Instituto Federal De Educação, Ciência E Tecnologia Do Rio Grande Do Sul (IFRS)
+
+Charles Christian Miers - Universidade Do Estado De Santa Catarina (UDESC)
+
+Charles Varlei Neu - Universidade De Santa Cruz Do Sul (UNISC)
+
+Claudio Schepke - Universidade Federal Do Pampa (UNIPAMPA)
+
+Daniel Stefani Marcon - Universidade Do Vale Do Rio Dos Sinos (UNISINOS)
+
+Diego Kreutz - Universidade Federal Do Pampa (UNIPAMPA)
+
+Eder John Scheid - Universidade Federal Do Rio Grande Do Sul (UFRGS)
+
+Eduardo Maroñas Monks - Fatec Senac Pelotas (SENAC)
+
+Ewerton Andrade - Universidade Federal De Rondônia E Sidia (UNIR)
+
+Ewerton Monteiro Salvador - Universidade Federal Da Paraíba (UFPB)
+
+Frederico Schardong - Instituto Federal De Educação, Ciência E Tecnologia Do Rio Grande Do Sul (IFRS)
+
+Guilherme Piêgas Koslovski - Universidade Do Estado De Santa Catarina (UDESC)
+
+Henrique Becker Brum - Università Degli Studi Di Trento (UNITN)
+
+Juliano Araujo Wickboldt - Universidade Federal Do Rio Grande Do Sul (UFRGS)
+
+Leonardo Pinho - Universidade Federal Do Pampa (UNIPAMPA)
+
+Lisandro Zambenedetti Granville - Universidade Federal Do Rio Grande Do Sul (UFRGS)
+
+Luciano Ignaczak - Universidade Do Vale Do Rio Dos Sinos (UNISINOS)
+
+Lucio Rene Prade - Universidade Do Vale Do Rio Dos Sinos (UNISINOS)
+
+Marcio Pohlmann - Faculdade Senac Porto Alegre / Instituto Federal Do Rio Grande Do Sul (SENAC/UFRGS)
+
+Marco A. Spohn - Universidade Federal Da Fronteira Sul (UFFS)
+
+Muriel Figueredo Franco - Universidade Federal De Ciências Da Saúde De Porto Alegre (UFCSPA)
+
+Rafael Bastos - Universidade Federal De Pelotas (UFPEL)
+
+Rafael R. Obelheiro - Universidade Do Estado De Santa Catarina (UDESC)
+
+Raul Ceretta Nunes - Universidade Federal De Santa Maria (UFSM)
+
+Ricardo Borges Almeida - Universidade Federal De Pelotas (UFPEL)
+
+Ricardo de la Rocha Ladeira - Instituto Federal Catarinense - Campus Blumenau (IFC)
+
+Roben Castagna Lunardi - Instituto Federal Do Rio Grande Do Sul (IFRS)
+
+Rodrigo Brandão Mansilha - Universidade Federal Do Pampa (UNIPAMPA)
+
+Rodrigo Campos Bortoletto - Instituto Federal De Educação, Ciência E Tecnologia De São Paulo (IFSP)
+
+Roger Immich - Universidade Federal Do Rio Grande Do Norte (UFRN)
+
+Rogério Turchetti - Universidade Federal De Santa Maria (UFSM)
+
+Tiago Antonio Rizzetti - Universidade Federal De Santa Maria (UFSM)
+
+Tiago Coelho Ferreto - Pontifícia Universidade Católica Do Rio Grande Do Sul (PUCRS)
+
+Walter Priesnitz Filho - Universidade Federal De Santa Maria (UFSM)
