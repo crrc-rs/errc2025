@@ -35,13 +35,13 @@ permalink: /organizacao/
 
 Alberto Egon Schaeffer-Filho – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Alex M. de Oliveira – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
+Alex M. de Oliveira – Instituto Federal do Rio Grande do Sul (IFRS)
 
 Antonio M. O. Candia – Universidade Federal de Santa Maria (UFSM)
 
 Bruno L. Dalmazo – Universidade Federal do Rio Grande (FURG)
 
-Cesar Augusto Hass Loureiro – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
+Cesar Augusto Hass Loureiro – Instituto Federal do Rio Grande do Sul (IFRS)
 
 Charles Christian Miers – Universidade do Estado de Santa Catarina (UDESC)
 
@@ -61,7 +61,7 @@ Eder John Scheid – Universidade Federal do Rio Grande do Sul (UFRGS)
 
 Edison Pignaton de Freitas – Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Eduardo Maroñas Monks – Faculdade de Tecnologia Senac Pelotas (FATEC SENAC Pelotas)
+Eduardo Maroñas Monks – Centro Universitário Senac RS (UniSenac)
 
 Erico M. H. do Amaral – Universidade Federal do Pampa (UNIPAMPA)
 
@@ -93,9 +93,9 @@ Luis Augusto Dias Knob – Fondazione Bruno Kessler (FBK)
 
 Marcia Pasin – Universidade Federal de Santa Maria (UFSM)
 
-Marcio Pohlmann – Faculdade Senac Porto Alegre / Universidade Federal do Rio Grande do Sul (UFRGS)
+Marcio Pohlmann – Centro Universitário Senac RS (UniSenac)
 
-Márcio Joel Barth – Companhia de Processamento de Dados do Estado do Rio Grande do Sul (PROCERGS)
+Márcio Joel Barth – Centro Universitário Senac RS (UniSenac) / Companhia de Processamento de Dados do Estado do Rio Grande do Sul (PROCERGS)
 
 Marco A. Spohn – Universidade Federal da Fronteira Sul (UFFS)
 
@@ -105,7 +105,7 @@ Pedro de B. Marcos – Universidade Federal do Rio Grande (FURG)
 
 Rafael Bastos – Universidade Federal de Pelotas (UFPel)
 
-Rafael Esteves – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
+Rafael Esteves – Instituto Federal do Rio Grande do Sul (IFRS)
 
 Rafael Kunst – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
@@ -117,7 +117,7 @@ Ricardo de la Rocha Ladeira – Instituto Federal Catarinense – Campus Blumena
 
 Ricardo Jose Pfitscher – Universidade Federal de Santa Catarina (UFSC)
 
-Roben Castagna Lunardi – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)
+Roben Castagna Lunardi – Instituto Federal do Rio Grande do Sul (IFRS)
 
 Rodolfo Antunes – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
