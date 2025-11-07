@@ -86,76 +86,76 @@ Todos os participantes e autores do WRSeg deverão realizar a inscrição na ERR
 
 ## 👩‍🏫 Comitê de Programa
 
-Alex M. de Oliveira - Instituto Federal De Educação, Ciência E Tecnologia Do Rio Grande Do Sul (IFRS)
+Alex M. de Oliveira - Instituto Federal do Rio Grande do Sul (IFRS)
 
-Bruno Augusti Mozzaquatro - Universidade Federal De Santa Maria (UFSM)
+Bruno Augusti Mozzaquatro - Universidade Federal de Santa Maria (UFSM)
 
 Bruno L. Dalmazo - Universidade Federal do Rio Grande (FURG)
 
-Cesar Augusto Hass Loureiro - Instituto Federal De Educação, Ciência E Tecnologia Do Rio Grande Do Sul (IFRS)
+Cesar Augusto Hass Loureiro - Instituto Federal do Rio Grande do Sul (IFRS)
 
-Charles Christian Miers - Universidade Do Estado De Santa Catarina (UDESC)
+Charles Christian Miers - Universidade do Estado de Santa Catarina (UDESC)
 
-Charles Varlei Neu - Universidade De Santa Cruz Do Sul (UNISC)
+Charles Varlei Neu - Universidade de Santa Cruz do Sul (UNISC)
 
-Claudio Schepke - Universidade Federal Do Pampa (UNIPAMPA)
+Claudio Schepke - Universidade Federal do Pampa (UNIPAMPA)
 
-Daniel Stefani Marcon - Universidade Do Vale Do Rio Dos Sinos (UNISINOS)
+Daniel Stefani Marcon - Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Diego Kreutz - Universidade Federal Do Pampa (UNIPAMPA)
+Diego Kreutz - Universidade Federal do Pampa (UNIPAMPA)
 
-Eder John Scheid - Universidade Federal Do Rio Grande Do Sul (UFRGS)
+Eder John Scheid - Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Eduardo Maroñas Monks - Fatec Senac Pelotas (SENAC)
+Eduardo Maroñas Monks - Centro Universitário Senac RS (UniSenac)
 
-Ewerton Andrade - Universidade Federal De Rondônia E Sidia (UNIR)
+Ewerton Andrade - Universidade Federal de Rondônia (UNIR) e SIDIA
 
-Ewerton Monteiro Salvador - Universidade Federal Da Paraíba (UFPB)
+Ewerton Monteiro Salvador - Universidade Federal da Paraíba (UFPB)
 
-Frederico Schardong - Instituto Federal De Educação, Ciência E Tecnologia Do Rio Grande Do Sul (IFRS)
+Frederico Schardong - Instituto Federal do Rio Grande do Sul (IFRS)
 
-Guilherme Piêgas Koslovski - Universidade Do Estado De Santa Catarina (UDESC)
+Guilherme Piêgas Koslovski - Universidade do Estado de Santa Catarina (UDESC)
 
-Henrique Becker Brum - Università Degli Studi Di Trento (UNITN)
+Henrique Becker Brum - Università degli Studi di Trento (UNITN)
 
-Juliano Araujo Wickboldt - Universidade Federal Do Rio Grande Do Sul (UFRGS)
+Juliano Araujo Wickboldt - Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Leonardo Pinho - Universidade Federal Do Pampa (UNIPAMPA)
+Leonardo Pinho - Universidade Federal do Pampa (UNIPAMPA)
 
-Lisandro Zambenedetti Granville - Universidade Federal Do Rio Grande Do Sul (UFRGS)
+Lisandro Zambenedetti Granville - Universidade Federal do Rio Grande do Sul (UFRGS)
 
-Luciano Ignaczak - Universidade Do Vale Do Rio Dos Sinos (UNISINOS)
+Luciano Ignaczak - Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Lucio Rene Prade - Universidade Do Vale Do Rio Dos Sinos (UNISINOS)
+Lucio Rene Prade - Universidade do Vale do Rio dos Sinos (UNISINOS)
 
-Marcio Pohlmann - Faculdade Senac Porto Alegre / Instituto Federal Do Rio Grande Do Sul (SENAC/UFRGS)
+Marcio Pohlmann - Centro Universitário Senac RS (UniSenac)
 
-Marco A. Spohn - Universidade Federal Da Fronteira Sul (UFFS)
+Marco A. Spohn - Universidade Federal da Fronteira Sul (UFFS)
 
-Muriel Figueredo Franco - Universidade Federal De Ciências Da Saúde De Porto Alegre (UFCSPA)
+Muriel Figueredo Franco - Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)
 
-Rafael Bastos - Universidade Federal De Pelotas (UFPEL)
+Rafael Bastos - Universidade Federal de Pelotas (UFPEL)
 
-Rafael R. Obelheiro - Universidade Do Estado De Santa Catarina (UDESC)
+Rafael R. Obelheiro - Universidade do Estado de Santa Catarina (UDESC)
 
-Raul Ceretta Nunes - Universidade Federal De Santa Maria (UFSM)
+Raul Ceretta Nunes - Universidade Federal de Santa Maria (UFSM)
 
-Ricardo Borges Almeida - Universidade Federal De Pelotas (UFPEL)
+Ricardo Borges Almeida - Universidade Federal de Pelotas (UFPEL)
 
 Ricardo de la Rocha Ladeira - Instituto Federal Catarinense - Campus Blumenau (IFC)
 
-Roben Castagna Lunardi - Instituto Federal Do Rio Grande Do Sul (IFRS)
+Roben Castagna Lunardi - Instituto Federal do Rio Grande do Sul (IFRS)
 
-Rodrigo Brandão Mansilha - Universidade Federal Do Pampa (UNIPAMPA)
+Rodrigo Brandão Mansilha - Universidade Federal do Pampa (UNIPAMPA)
 
-Rodrigo Campos Bortoletto - Instituto Federal De Educação, Ciência E Tecnologia De São Paulo (IFSP)
+Rodrigo Campos Bortoletto - Instituto Federal de São Paulo (IFSP)
 
-Roger Immich - Universidade Federal Do Rio Grande Do Norte (UFRN)
+Roger Immich - Universidade Federal do Rio Grande do Norte (UFRN)
 
-Rogério Turchetti - Universidade Federal De Santa Maria (UFSM)
+Rogério Turchetti - Universidade Federal de Santa Maria (UFSM)
 
-Tiago Antonio Rizzetti - Universidade Federal De Santa Maria (UFSM)
+Tiago Antonio Rizzetti - Universidade Federal de Santa Maria (UFSM)
 
-Tiago Coelho Ferreto - Pontifícia Universidade Católica Do Rio Grande Do Sul (PUCRS)
+Tiago Coelho Ferreto - Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 
-Walter Priesnitz Filho - Universidade Federal De Santa Maria (UFSM)
+Walter Priesnitz Filho - Universidade Federal de Santa Maria (UFSM)
