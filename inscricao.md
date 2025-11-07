@@ -8,7 +8,7 @@ permalink: /inscricao/
 
 A inscrição evento será realizada utilizando o sistema ECOS da SBC.
 
-<a href="[URL](https://centraldesistemas.sbc.org.br/ecos/errc2025)" style="background-color: #4CAF50; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">INSCREVA-SE AQUI</a>
+<a href="https://centraldesistemas.sbc.org.br/ecos/errc2025" style="background-color: #4CAF50; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">INSCREVA-SE AQUI</a>
 
 # Valores / Investimento
 
@@ -56,6 +56,8 @@ th {
 | Profissional associado à SBC com anuidade vencendo em até 90 dias (**Melhor opção: COMBO** inscrição no evento + renovação da associação à SBC) | R$ 475,00 | R$ 495,00 |
 | Profissional não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 475,00 | R$ 495,00 |
 | Profissional não associado à SBC (**Somente** inscrição no evento) | R$ 485,00 | R$ 507,00 |
+
+
 
 - Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.
 
