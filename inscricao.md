@@ -29,7 +29,7 @@ th {
 }
 </style>
 
-| **CATEGORIAS** | **Até 14/11/2025** | **Até 10/11/2025** |
+| **CATEGORIAS** | **Até 14/11/2025** | **Após 14/11/2025** |
 |------------|----------------|----------------|
 | **Estudantes** | | |
 | Estudante associado à SBC com anuidade vigente | R$ 30,00 | R$ 40,00 |
@@ -57,22 +57,6 @@ th {
 | Profissional não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 475,00 | R$ 495,00 |
 | Profissional não associado à SBC (**Somente** inscrição no evento) | R$ 485,00 | R$ 507,00 |
 
-
-
-- Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.
-
-- As categorias COMBO são a opção mais vantajosa para os não associados à SBC, pois os valores de inscrições são menores do que as categorias sem combo e incluem a associação à SBC.
-
-- Associar-se à SBC é uma forma de tornar a SBC ainda mais forte para representar a nossa área de atuação junto aos diversos setores. Que tal fazer parte da nossa Comunidade?
-
-- Alguns benefícios exclusivos de associado:
-
-- Acesso à rede sem fio Eduroam;
-- Desconto em inscrições nos mais de 40 eventos realizados anualmente pela SBC;
-- Valor de inscrição diferenciado no POSCOMP;
-- Acesso aos estudos realizados pela SBC e destinados a órgãos públicos ou privados, expressando posições políticas da Sociedade.
-- Confira os benefícios específicos de cada categoria no site da SBC: [https://www.sbc.org.br](https://www.sbc.org.br)
-
 ## INSCRIÇÃO PROMOCIONAL
 
 <img width="100%"  alt="image" src="https://github.com/user-attachments/assets/ae13bcad-21d6-4e86-923f-cc89fce192da" />
@@ -93,6 +77,21 @@ A taxa de inscrição cobre a participação nas sessões da ERRC/WRSeg, palestr
 - Inscrições por Nota de Empenho e Faturamento: O participante deverá acessar o sistema ECOS e realizar a inscrição, selecionando a forma de pagamento “nota de empenho” ou “faturamento” e clicar em pagar, o sistema fornecerá as informações necessárias que devem constar na nota de empenho ou o pedido de faturamento.
  
 - Inscrições que optarem por pagamento através de boleto podem levar até 3 dias úteis pra serem atualizadas no sistema.
+
+- Participantes não associados à SBC ou associados com anuidade próxima do vencimento podem se associar ou renovar a associação junto com a inscrição, escolhendo as categorias COMBO com um desconto no valor da inscrição.
+
+- As categorias COMBO são a opção mais vantajosa para os não associados à SBC, pois os valores de inscrições são menores do que as categorias sem combo e incluem a associação à SBC.
+
+- Associar-se à SBC é uma forma de tornar a SBC ainda mais forte para representar a nossa área de atuação junto aos diversos setores. Que tal fazer parte da nossa Comunidade?
+
+- Alguns benefícios exclusivos de associado:
+
+- Acesso à rede sem fio Eduroam;
+- Desconto em inscrições nos mais de 40 eventos realizados anualmente pela SBC;
+- Valor de inscrição diferenciado no POSCOMP;
+- Acesso aos estudos realizados pela SBC e destinados a órgãos públicos ou privados, expressando posições políticas da Sociedade.
+- Confira os benefícios específicos de cada categoria no site da SBC: [https://www.sbc.org.br](https://www.sbc.org.br)
+
 
 ## Política para Autores
 Informamos aos autores que, para garantir a publicação de trabalhos aceitos nos anais da ERRC 2025, pelo menos um dos autores deve estar com inscrição confirmada e paga em qualquer categoria. Além disso, é necessária a assinatura e o envio do Formulário de Cessão de Direitos Autorais da Sociedade Brasileira de Computação (SBC) (a ser enviado aos autores de artigos aceitos).
