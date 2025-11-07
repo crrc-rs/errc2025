@@ -57,7 +57,7 @@ th {
 | Profissional não associado ou com associação não vigente à SBC (**Melhor opção: COMBO** inscrição no evento + associação à SBC) | R$ 475,00 | R$ 495,00 |
 | Profissional não associado à SBC (**Somente** inscrição no evento) | R$ 485,00 | R$ 507,00 |
 
-## INSCRIÇÃO PROMOCIONAL
+## Inscrição Promocional
 
 <img width="100%"  alt="image" src="https://github.com/user-attachments/assets/ae13bcad-21d6-4e86-923f-cc89fce192da" />
 
