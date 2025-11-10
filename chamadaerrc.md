@@ -16,7 +16,7 @@ Os artigos submetidos à escola devem conter de 4 (quatro) a 6 (seis) páginas e
 O template de estilo da SBC está disponível do Overleaf e em ZIP.
 
 ## 📅 Datas Importantes
-10/11/2025: Data limite de registro e submissão de artigos
+~~10/11/2025~~ 16/11/2025: Data limite de registro e submissão de artigos (hard deadline)
 
 24/11/2025: Notificação de aceite dos artigos
 
