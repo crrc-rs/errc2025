@@ -55,6 +55,8 @@ Dalvan Griebler – Pontifícia Universidade Católica do Rio Grande do Sul (PUC
 
 Daniel Stefani Marcon – Universidade do Vale do Rio dos Sinos (UNISINOS)
 
+Diego Kreutz – Universidade Federal do Pampa (UNIPAMPA)
+
 Diogo Menezes Ferrazani Mattos – Universidade Federal Fluminense (UFF)
 
 Eder John Scheid – Universidade Federal do Rio Grande do Sul (UFRGS)
