@@ -18,7 +18,7 @@ O template de estilo da SBC está disponível do Overleaf e em ZIP.
 ## 📅 Datas Importantes
 ~~10/11/2025~~ ~~16/11/2025~~: Data limite de registro e submissão de artigos (hard deadline)
 
-25/11/2025: Notificação de aceite dos artigos
+~~25/11/2025~~: Notificação de aceite dos artigos
 
 01/12/2025: Entrega da versão final dos trabalhos aceitos e Registro de um dos autores na ERRC 2025
 
