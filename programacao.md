@@ -6,4 +6,7 @@ permalink: /programacao/
 
 # Programação
 
-### Informações disponíveis em breve
+![Programação ERRC 2025]({{ '/assets/img/programacaov1.png' | relative_url }})
+
+
+
