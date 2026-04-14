@@ -8,15 +8,15 @@ permalink: /
   <img src="{{ '/assets/img/569437_SE6-0806_25A_UNISENAC_LOGO_ERRC.png' | relative_url }}" 
        alt="Logo ERRC 2025" 
        class="img-fluid"
-       style="max-width: 500px; width: 100%;">
+       style="max-width: 500px; width: 80%;">
 </div>
 
 
 # 22ª Escola Regional de Redes de Computadores (ERRC)
 
-### Centro Universitário Senac RS **(Unisenac)**
+### Centro Universitário Senac RS **(Unisenac)** - ### 8 a 10 de dezembro de 2025 - Porto Alegre - RS
 
-### 8 a 10 de dezembro de 2025 - Porto Alegre - RS
+<a href="https://sol.sbc.org.br/index.php/errc/issue/view/1610" style="background-color: #1a2e5a; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: block; width: fit-content; margin: 0 auto;">ANAIS DO EVENTO</a>
 
 ## Sobre o Evento
 
