@@ -8,7 +8,7 @@ permalink: /
   <img src="{{ '/assets/img/569437_SE6-0806_25A_UNISENAC_LOGO_ERRC.png' | relative_url }}" 
        alt="Logo ERRC 2025" 
        class="img-fluid"
-       style="max-width: 350px; width: 100%;">
+       style="max-width: 450px; width: 100%;">
 </div>
 
 
@@ -18,7 +18,7 @@ permalink: /
 
 
 <a href="https://sol.sbc.org.br/index.php/errc/issue/view/1610"
-  style="background-color: #1a2e5a; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: block; width: fit-content; margin: 0 auto; transition: background-color 0.3s, color 0.3s;"
+  style="background-color: #1a2e5a; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: block; width: fit-content; margin: 20px auto 0 auto; transition: background-color 0.3s, color 0.3s;"
   onmouseover="this.style.backgroundColor='#5b9bd5'; this.style.color='black';"
   onmouseout="this.style.backgroundColor='#1a2e5a'; this.style.color='white';">ANAIS DO EVENTO</a>
 
